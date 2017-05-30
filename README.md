@@ -5,7 +5,7 @@
 - dailymail: #train/validate/test = 196961/12147/10397
 
 ### download
-- you can download the dataset directly from [here](http://lipiji.com/docs/datasets.html)
+- you can download the dataset directly from [here](https://drive.google.com/drive/folders/0BxUmZA_RBdXnRHk1LUY4YTd2R0U?usp=sharing)
 
 
 Or you can prepare it by yourself:
